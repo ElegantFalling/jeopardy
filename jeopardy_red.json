@@ -1,0 +1,287 @@
+{
+    "config": {
+        "background_color": "red4",
+        "done_color": "red3",
+        "text_color": "white",
+        "grid_color": "white"
+    },
+    "board": [
+        {
+            "category_name": "A Rose By Any Other Name",
+            "answers": [
+                {
+                    "id": 1,
+                    "text": "A prickly bush or shrub that typically bears red, pink, yellow, or white fragrant flowers, native to north temperate regions",
+                    "question_id": 1,
+                    "value": 100
+                },
+                {
+                    "id": 2,
+                    "text": "Moved from a lower position to a higher one; came or went up",
+                    "question_id": 2,
+                    "value": 200
+                },
+                {
+                    "id": 3,
+                    "text": "Any light pink wine, colored by only brief contact with red grape skins",
+                    "question_id": 3,
+                    "value": 300
+                },
+                {
+                    "id": 4,
+                    "text": "Numbers of people or things in more or less straight lines",
+                    "question_id": 4,
+                    "value": 400
+                },
+                {
+                    "id": 5,
+                    "text": "Noisy acrimonious quarrels",
+                    "question_id": 5,
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "category_name": "Geopolitics",
+            "answers": [
+                {
+                    "id": 6,
+                    "text": "Since the U.S. presidential election in 2000, this major political party has been associated with the color red",
+                    "question_id": 6,
+                    "value": 100
+                },
+                {
+                    "id": 7,
+                    "text": "This nickname for British soldiers referred to their iconic uniforms worn from the 16th to 20th centuries",
+                    "question_id": 7,
+                    "value": 200
+                },
+                {
+                    "id": 8,
+                    "text": "This term for a period of moral panic around the rise of communism was used to refer to two separate periods of US history: one from 1917-1920 and the other from 1947-1957",
+                    "question_id": 8,
+                    "value": 300
+                },
+                {
+                    "id": 9,
+                    "text": "This is the number of US States that have any amount of red on their flag",
+                    "question_id": 9,
+                    "value": 400
+                },
+                {
+                    "id": 10,
+                    "text": "This Norse explorer established the first European settlement in Greenland",
+                    "question_id": 10,
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "category_name": "Comics",
+            "answers": [
+                {
+                    "id": 11,
+                    "text": "This superhero with his iconic red, yellow, and blue costume debuted in Action Comics #1",
+                    "question_id": 11,
+                    "value": 100
+                },
+                {
+                    "id": 12,
+                    "text": "This comic foil of Captain America originally wore a mask that gave him his fearsome moniker and only later was his face disfigured to match",
+                    "question_id": 12,
+                    "value": 200
+                },
+                {
+                    "id": 13,
+                    "text": "This particular iteration of Superman's main weakness has had a variety of effects over the years including transforming into a dragon, excessive hair growth, and causing amnesia",
+                    "question_id": 13,
+                    "value": 300
+                },
+                {
+                    "id": 14,
+                    "text": "This superhero identity was taken on by Tim Drake after the events of 2009 comic miniseries Batman: Battle for the Cowl",
+                    "question_id": 14,
+                    "value": 400
+                },
+                {
+                    "id": 15,
+                    "text": "Appearing the first-ever issue of Marvel comics, this superhero fought a gangster named Red in the same issue",
+                    "question_id": 15,
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "category_name": "Apple of My i",
+            "answers": [
+                {
+                    "id": 16,
+                    "text": "First announced in 2007, this cellular device popularized the concept of a smartphone",
+                    "question_id": 16,
+                    "value": 100
+                },
+                {
+                    "id": 17,
+                    "text": "First introduced in 2010, this tablet was the culmination of a vision Steve Jobs espoused as early as 1983",
+                    "question_id": 17,
+                    "value": 200
+                },
+                {
+                    "id": 18,
+                    "text": "First introduced in 2005, this portable music player was the first sold to use flash memory to achieve an incredibly small form factor",
+                    "question_id": 18,
+                    "value": 300
+                },
+                {
+                    "id": 19,
+                    "text": "First introduced in 1984, this computer, named after the national apple of Canada, was so popular that its successors bear its name even today",
+                    "question_id": 19,
+                    "value": 400
+                },
+                {
+                    "id": 20,
+                    "text": "This personal computer was the first ever to be operable through a graphical user interface",
+                    "question_id": 20,
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "category_name": "Sports",
+            "answers": [
+                {
+                    "id": 21,
+                    "text": "This professional baseball team based in Boston has a well-known long term rivalry with the New York Yankees",
+                    "question_id": 21,
+                    "value": 100
+                },
+                {
+                    "id": 22,
+                    "text": "This object is used in professional association football to indicate immediate player ejection",
+                    "question_id": 22,
+                    "value": 200
+                },
+                {
+                    "id": 23,
+                    "text": "This is the value of the central red bullseye in a classical game of darts",
+                    "question_id": 23,
+                    "value": 300
+                },
+                {
+                    "id": 24,
+                    "text": "The former name of the Washinton Commanders, this moniker was the subject of much controversy regarding its insensitivity to Native American culture",
+                    "question_id": 24,
+                    "value": 400
+                },
+                {
+                    "id": 25,
+                    "text": "This cue sport is played on a billiards table with fifteen red balls and seven other balls of various colors",
+                    "question_id": 25,
+                    "value": 500
+                }
+            ]
+        }
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "text": "What is a rose?"
+        },
+        {
+            "id": 2,
+            "text": "What is arose?"
+        },
+        {
+            "id": 3,
+            "text": "What is a rosé?"
+        },
+        {
+            "id": 4,
+            "text": "What are rows?"
+        },
+        {
+            "id": 5,
+            "text": "What are rows?"
+        },
+        {
+            "id": 6,
+            "text": "What is the Republican party?"
+        },
+        {
+            "id": 7,
+            "text": "What is \"Redcoats\"?"
+        },
+        {
+            "id": 8,
+            "text": "What is a Red Scare"
+        },
+        {
+            "id": 9,
+            "text": "What is 33?"
+        },
+        {
+            "id": 10,
+            "text": "Who is Erik the Red?"
+        },
+        {
+            "id": 11,
+            "text": "Who is Superman?"
+        },
+        {
+            "id": 12,
+            "text": "Who is the Red Skull?"
+        },
+        {
+            "id": 13,
+            "text": "What is red kryptonite?"
+        },
+        {
+            "id": 14,
+            "text": "Who is Red Robin?"
+        },
+        {
+            "id": 15,
+            "text": "Who is the Human Torch?"
+        },
+        {
+            "id": 16,
+            "text": "What is an iPhone?"
+        },
+        {
+            "id": 17,
+            "text": "What is an iPad?"
+        },
+        {
+            "id": 18,
+            "text": "What is an iPod Nano?"
+        },
+        {
+            "id": 19,
+            "text": "What is a Macintosh?"
+        },
+        {
+            "id": 20,
+            "text": "What is the Apple Lisa?"
+        },
+        {
+            "id": 21,
+            "text": "What is the Red Sox baseball team?"
+        },
+        {
+            "id": 22,
+            "text": "What is a red card?"
+        },
+        {
+            "id": 23,
+            "text": "What is 50 points?"
+        },
+        {
+            "id": 24,
+            "text": "What is the Washington Redskins?"
+        },
+        {
+            "id": 25,
+            "text": "What is snooker?"
+        }
+    ]
+}
