@@ -1,0 +1,287 @@
+{
+    "config": {
+        "background_color": "red4",
+        "done_color": "red3",
+        "text_color": "white",
+        "grid_color": "white"
+    },
+    "board": [
+        {
+            "category_name": "Better Off Red",
+            "answers": [
+                {
+                    "id": 1,
+                    "text": "This wavelength of led is just below the visible spectrum from about 800nm to 1 mm",
+                    "question_id": 1,
+                    "value": 200
+                },
+                {
+                    "id": 2,
+                    "text": "This social media aggregator was founded in 2005 and is known as the \"front page of the internet\"",
+                    "question_id": 2,
+                    "value": 400
+                },
+                {
+                    "id": 3,
+                    "text": "This celestial body is a star that has exhausted the supply of hydrogen in its core",
+                    "question_id": 3,
+                    "value": 600
+                },
+                {
+                    "id": 4,
+                    "text": "This dye is the most common artificial agent used to color food red in the United States",
+                    "question_id": 4,
+                    "value": 800
+                },
+                {
+                    "id": 5,
+                    "text": "This literary device is used to mislead or distract from relevant or important information",
+                    "question_id": 5,
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "category_name": "Red In the Eyes",
+            "answers": [
+                {
+                    "id": 6,
+                    "text": "This is an activity one might do during a siesta or when living with young children",
+                    "question_id": 6,
+                    "value": 200
+                },
+                {
+                    "id": 7,
+                    "text": "This normalized addiction is present in about 66% of American adults",
+                    "question_id": 7,
+                    "value": 400
+                },
+                {
+                    "id": 8,
+                    "text": "This common symptom of depression is a cause of considerable concern and often leads to the creation of a safety plan",
+                    "question_id": 8,
+                    "value": 600
+                },
+                {
+                    "id": 9,
+                    "text": "This condition can be the result of abnormalities within the inner ear or the result of a concussion",
+                    "question_id": 9,
+                    "value": 800
+                },
+                {
+                    "id": 10,
+                    "text": "This mental disorder is characterized by a disconnection from reality",
+                    "question_id": 10,
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "category_name": "A Study In Scarlet",
+            "answers": [
+                {
+                    "id": 11,
+                    "text": "This fictional superheroine from Marvel Comics has the power to manipulate reality alongside other magical capabilities",
+                    "question_id": 11,
+                    "value": 200
+                },
+                {
+                    "id": 12,
+                    "text": "This 1850 novel by Nathaniel Hawthorne features a Puritan woman who is marked with its eponymous symbol",
+                    "question_id": 12,
+                    "value": 400
+                },
+                {
+                    "id": 13,
+                    "text": "This bacterial illness is most common in children 5-15 years of age and includes a bright red rash that covers most of the body",
+                    "question_id": 13,
+                    "value": 600
+                },
+                {
+                    "id": 14,
+                    "text": "This 1905 novel by Baroness Orczy features a chilvarous Englishman who rescues aristocrats before they are sent to the guillotine",
+                    "question_id": 14,
+                    "value": 800
+                },
+                {
+                    "id": 15,
+                    "text": "This South American fowl is a more brightly colored relative of bird oft-depicted as the head of the Egyption deity Thoth",
+                    "question_id": 15,
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "category_name": "Board & Video Games",
+            "answers": [
+                {
+                    "id": 16,
+                    "text": "This popular children's game is played with red and black circular pieces moving diagonally and capturing by jumping over other pieces",
+                    "question_id": 16,
+                    "value": 200
+                },
+                {
+                    "id": 17,
+                    "text": "This color of mana in the trading card game Magic: The Gathering represents speed and passion, as well as heat and fire",
+                    "question_id": 17,
+                    "value": 400
+                },
+                {
+                    "id": 18,
+                    "text": "This city in the Kanto region is the home of Electric-type specialist Lt. Surge",
+                    "question_id": 18,
+                    "value": 600
+                },
+                {
+                    "id": 19,
+                    "text": "This action-adventure game by Rockstar Games explores the decline of the American frontier and the violence intertwined with the American Dream",
+                    "question_id": 19,
+                    "value": 800
+                },
+                {
+                    "id": 20,
+                    "text": "This central European country in the strategy game Diplomacy is classically played with red pieces",
+                    "question_id": 20,
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "category_name": "Thicker Than Water",
+            "answers": [
+                {
+                    "id": 21,
+                    "text": "This fluid is found in the circulatory system of humans and other verterbrates, delivering necessary substances to the cells and transporting waste away from the same cells",
+                    "question_id": 21,
+                    "value": 200
+                },
+                {
+                    "id": 22,
+                    "text": "This thick, cold, and creamy sauce is primarily composed of oil, egg yolks, and an acid",
+                    "question_id": 22,
+                    "value": 400
+                },
+                {
+                    "id": 23,
+                    "text": "This volcanic rock is well known for being incredibly porous and has a multitude of industrial applications",
+                    "question_id": 23,
+                    "value": 600
+                },
+                {
+                    "id": 24,
+                    "text": "This emulsion of oils, surfactants, and waters is a common sight when washing one's hands or taking a shower",
+                    "question_id": 24,
+                    "value": 800
+                },
+                {
+                    "id": 25,
+                    "text": "This sterile wound dressing material is designed to be used on light to moderately exudating wounds",
+                    "question_id": 25,
+                    "value": 1000
+                }
+            ]
+        }
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "text": "What is infrared?"
+        },
+        {
+            "id": 2,
+            "text": "What is Reddit?"
+        },
+        {
+            "id": 3,
+            "text": "What is a red giant?"
+        },
+        {
+            "id": 4,
+            "text": "What is Red 40?"
+        },
+        {
+            "id": 5,
+            "text": "What is a red herring?"
+        },
+        {
+            "id": 6,
+            "text": "What is taking naps?"
+        },
+        {
+            "id": 7,
+            "text": "What is craving caffiene?"
+        },
+        {
+            "id": 8,
+            "text": "What is experiencing suicidal thoughts?"
+        },
+        {
+            "id": 9,
+            "text": "What is poor balance and coordination?"
+        },
+        {
+            "id": 10,
+            "text": "What is psychosis?"
+        },
+        {
+            "id": 11,
+            "text": "Who is Scarlet Witch?"
+        },
+        {
+            "id": 12,
+            "text": "What is the Scarlet Letter?"
+        },
+        {
+            "id": 13,
+            "text": "What is scarlet fever?"
+        },
+        {
+            "id": 14,
+            "text": "What is the Scarlet Pimpernel?"
+        },
+        {
+            "id": 15,
+            "text": "What is a scarlet ibis?"
+        },
+        {
+            "id": 16,
+            "text": "What is checkers?"
+        },
+        {
+            "id": 17,
+            "text": "What is red mana?"
+        },
+        {
+            "id": 18,
+            "text": "What is Vermillion City?"
+        },
+        {
+            "id": 19,
+            "text": "What is Red Dead Redemption?"
+        },
+        {
+            "id": 20,
+            "text": "What is Austria-Hungary?"
+        },
+        {
+            "id": 21,
+            "text": "What is blood?"
+        },
+        {
+            "id": 22,
+            "text": "What is mayonnaise?"
+        },
+        {
+            "id": 23,
+            "text": "What is pumice?"
+        },
+        {
+            "id": 24,
+            "text": "What is soap lather?"
+        },
+        {
+            "id": 25,
+            "text": "What is alginate hydrocolloid?"
+        }
+    ]
+}
